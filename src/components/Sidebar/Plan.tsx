@@ -9,7 +9,7 @@ export const Plan = () => {
           <p className="text-stone-500">Pay as you go</p>
         </div>
 
-        <button className="px-2 py-1.5 font-medium bg-stone-200 hover:bg-stone-300 transition-colors rounded">
+        <button className="px-2 py-1.5 text-white font-medium bg-stone-600 hover:bg-stone-300 transition-colors rounded">
           Support
         </button>
       </div>
